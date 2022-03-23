@@ -1,0 +1,1 @@
+A repo to keep track of some julia scratch work while working with matrices
